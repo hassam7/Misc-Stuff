@@ -1,5 +1,5 @@
 /**
- * 
+ * Code from http://nifty.stanford.edu/2014/nicholson-the-pesky-tourist/
  */
 package peskyTourist;
 
